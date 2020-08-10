@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QlyCapQuang", "QlyCapQuang\QlyCapQuang.csproj", "{6EA238AB-04B1-42A6-BBD9-D1987E264ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA238AB-04B1-42A6-BBD9-D1987E264ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA238AB-04B1-42A6-BBD9-D1987E264ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA238AB-04B1-42A6-BBD9-D1987E264ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA238AB-04B1-42A6-BBD9-D1987E264ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D69D621-618E-40F8-93A5-512BA1676CEF}
+	EndGlobalSection
+EndGlobal
